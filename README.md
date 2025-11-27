@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](INSERT_YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mohammadmostafavi-ai/AutoML-Asset-Pricing-Pipeline/blob/main/Thesis_Pipeline.ipynb)
 
 ## Abstract
 This repository contains the source code for a specialized Automated Machine Learning (AutoML) pipeline developed to forecast the daily log-returns of the **Dow Jones Industrial Average (DJI)**.
